@@ -5,8 +5,7 @@ Curso gratuito feito na plataforma da COD3R para início de um servidor para cad
 Frontend: Toda a API.
 Backend: Simples banco para busca, alteração e remoção dos produtos.
 
-=================================================================================================================================================================================
-
+==========================================================================================================
 
 # Frontend
 
