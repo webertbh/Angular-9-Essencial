@@ -3,6 +3,7 @@
 Curso gratuito feito na plataforma da COD3R para início de um servidor para cadastro, remoção e alteração de produtos. Feito o Frontend e Backend no Visual Studio Code.
 
 Frontend: Toda a API.
+
 Backend: Simples banco para busca, alteração e remoção dos produtos.
 
 ============================================================================
