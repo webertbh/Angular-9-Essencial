@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung s20+ Ultra",
+      "price": "7000.89"
+    },
+    {
+      "name": "formulario",
+      "price": "9.99",
+      "id": 4
+    },
+    {
+      "name": "lapis preto",
+      "price": "1.50",
+      "id": 5
+    },
+    {
+      "name": "lapis preto",
+      "price": "1.50",
+      "id": 6
+    }
+  ]
+}
